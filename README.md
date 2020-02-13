@@ -41,7 +41,7 @@ Written by Andres Bercovich, CEO Lamborghino and Safter Mechatronics.
 
 | Warning |
 | :-------: |
-| Try to not set at maximun pwm for few time, because, the motor could get hot, and can be damaged**.|
+| Try to set at high pwm values for few time, because, the motor could get hot, and can be damaged**.|
 
 
 
