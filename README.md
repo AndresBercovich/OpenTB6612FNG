@@ -4,7 +4,7 @@ Arduino library for TB6612FNG Driver
 ## About
 Very simple function for TB6612FNG motor driver.
 
-Just connect the pins and the motors and enjoy.
+Just connect the pins, the motors, and enjoy.
 
 
 For more information of OpenTB6612FNG, and Open Lamborghino proyects visit
